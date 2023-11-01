@@ -2,7 +2,7 @@ package hello.itemservice.domain.item;
 
 public enum ItemType {
 	
-	BOOK("µµ¼­"), FOOD("½ÄÇ°"), ETC("±âÅ¸");
+	BOOK("ë„ì„œ"), FOOD("ì‹í’ˆ"), ETC("ê¸°íƒ€");
 
 	private final String description;
 
